@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="sreenu.com.testLoginPage.TestLoginPage" duration-ms="9341" started-at="2018-08-21T18:05:59Z" finished-at="2018-08-21T18:06:08Z">
+  <suite name="sreenu.com.testLoginPage.TestLoginPage" duration-ms="9597" started-at="2018-08-21T18:23:09Z" finished-at="2018-08-21T18:23:18Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="9341" started-at="2018-08-21T18:05:59Z" finished-at="2018-08-21T18:06:08Z">
+    <test name="Command line test" duration-ms="9597" started-at="2018-08-21T18:23:09Z" finished-at="2018-08-21T18:23:18Z">
       <class name="sreenu.com.testLoginPage.TestLoginPage">
-        <test-method status="PASS" signature="getBrowser()[pri:0, instance:sreenu.com.testLoginPage.TestLoginPage@64616ca2]" name="getBrowser" is-config="true" duration-ms="7347" started-at="2018-08-21T18:05:59Z" finished-at="2018-08-21T18:06:06Z">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:sreenu.com.testLoginPage.TestLoginPage@64616ca2]" name="getBrowser" is-config="true" duration-ms="7285" started-at="2018-08-21T18:23:09Z" finished-at="2018-08-21T18:23:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getBrowser -->
-        <test-method status="PASS" signature="test_Login()[pri:0, instance:sreenu.com.testLoginPage.TestLoginPage@64616ca2]" name="test_Login" duration-ms="1961" started-at="2018-08-21T18:06:06Z" finished-at="2018-08-21T18:06:08Z">
+        <test-method status="PASS" signature="test_Login()[pri:0, instance:sreenu.com.testLoginPage.TestLoginPage@64616ca2]" name="test_Login" duration-ms="2289" started-at="2018-08-21T18:23:16Z" finished-at="2018-08-21T18:23:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Login -->
